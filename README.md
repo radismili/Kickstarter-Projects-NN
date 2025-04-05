@@ -1,5 +1,6 @@
 # Kickstarter-Projects-NN
-Main goal is to train a model that will be able to predict whether a Kickstarter project will be successful or not.
+Main goal is to train a model that will be able to predict whether a Kickstarter project will be successfull or not. We will use a Neural Network to make our predictions.
+The secondary goal is to explore the data, clean it and do a basic EDA analysis.
 
 The database contains information about projects launched on the popular Kickstarter platform and their success. Kickstarter allows creators to present their projects to the public, seeking funding to bring their ideas to life. Data are collected from Kickstarter Platform.
 
@@ -23,5 +24,4 @@ usd_goal_real: The funding goal in US dollars, standardized for the same reason 
 
 Dataset: https://www.kaggle.com/datasets/kemical/kickstarter-projects
 
-Main goal is to train a model that will be able to predict whether a Kickstarter project will be successfull or not. We will use a Neural Network to make our predictions.
-The secondary goal is to explore the data, clean it and do a basic EDA analysis.
+
